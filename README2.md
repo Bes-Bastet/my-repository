@@ -1,1 +1,1 @@
-Text can me read here in the README file.
+Text can be read here in the README file.
